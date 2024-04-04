@@ -15,3 +15,9 @@ ng g lib eui-table
 ```
 
 ## Installation
+
+
+## Inspiration
+
+
+[Building an Angular Open Source Library from Scratch!]([https://](https://www.youtube.com/watch?v=qNHdQqYfcKE))
