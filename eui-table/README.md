@@ -1,6 +1,6 @@
 # EuiTable
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a demo project for creating an angular library
@@ -46,8 +46,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/maquejp"><img src="https://avatars.githubusercontent.com/u/7753492?v=4?s=100" width="100px;" alt="Jean-Philippe M"/><br /><sub><b>Jean-Philippe M</b></sub></a><br /><a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Code">💻</a> 
-      <a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Documentation">📖</a> <a href="#example-maquejp" title="Examples">💡</a> <a href="#ideas-maquejp" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-maquejp" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-maquejp" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/maquejp"><img src="https://avatars.githubusercontent.com/u/7753492?v=4?s=100" width="100px;" alt="Jean-Philippe M"/><br /><sub><b>Jean-Philippe M</b></sub></a><br /><a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Code">💻</a> <a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Documentation">📖</a> <a href="#example-maquejp" title="Examples">💡</a> <a href="#ideas-maquejp" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-maquejp" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-maquejp" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://medium.com/@kevinkreuzer"><img src="https://avatars.githubusercontent.com/u/5468954?v=4?s=100" width="100px;" alt="Nivek"/><br /><sub><b>Nivek</b></sub></a><br /><a href="#ideas-kreuzerk" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
   <tfoot>

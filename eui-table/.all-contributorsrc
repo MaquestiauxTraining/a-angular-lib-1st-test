@@ -23,6 +23,15 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "kreuzerk",
+      "name": "Nivek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5468954?v=4",
+      "profile": "https://medium.com/@kevinkreuzer",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
