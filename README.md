@@ -13,3 +13,5 @@ ng g lib eui-table
 ```bash
 
 ```
+
+## Installation
