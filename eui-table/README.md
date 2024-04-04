@@ -47,7 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/maquejp"><img src="https://avatars.githubusercontent.com/u/7753492?v=4?s=100" width="100px;" alt="Jean-Philippe M"/><br /><sub><b>Jean-Philippe M</b></sub></a><br /><a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Code">💻</a> <a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Documentation">📖</a> <a href="#example-maquejp" title="Examples">💡</a> <a href="#ideas-maquejp" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-maquejp" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-maquejp" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://medium.com/@kevinkreuzer"><img src="https://avatars.githubusercontent.com/u/5468954?v=4?s=100" width="100px;" alt="Nivek"/><br /><sub><b>Nivek</b></sub></a><br /><a href="#ideas-kreuzerk" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://medium.com/@kevinkreuzer"><img src="https://avatars.githubusercontent.com/u/5468954?v=4?s=100" width="100px;" alt="Nivek"/><br /><sub><b>Nivek</b></sub></a><br /><a href="#video-kreuzerk" title="Videos">📹</a></td>
     </tr>
   </tbody>
   <tfoot>
