@@ -2,13 +2,21 @@
 
 This is a demo project for creating an angular library
 
-## Getting started
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Installation](#installation)
+- [Usage](#usage)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Installation
 
 ```bash
 npm i eui-table
 ```
 
-### Usage
+## Usage
 
 ```typescript
 @Component({

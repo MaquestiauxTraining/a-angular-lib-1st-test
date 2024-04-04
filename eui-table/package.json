@@ -13,7 +13,8 @@
     "format:check-demo": "prettier --check \"projects/eui-table-demo/src/**/*.{ts,js,html,scss,json}\"",
     "format:write-demo": "prettier --write \"projects/eui-table-demo/src/**/*.{ts,js,html,scss,json}\"",
     "format:check": "npm run format:check-lib && npm run format:check-demo",
-    "format:write": "npm run format:write-lib && npm run format:write-demo"
+    "format:write": "npm run format:write-lib && npm run format:write-demo",
+    "generate:toc": "npx doctoc README.md"
   },
   "private": true,
   "dependencies": {
