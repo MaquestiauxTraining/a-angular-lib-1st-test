@@ -44,7 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/maquejp"><img src="https://avatars.githubusercontent.com/u/7753492?v=4?s=100" width="100px;" alt="Jean-Philippe M"/><br /><sub><b>Jean-Philippe M</b></sub></a><br /><a href="https://github.com/Jean-Philippe Maquestiaux/eui-table/commits?author=maquejp" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/maquejp"><img src="https://avatars.githubusercontent.com/u/7753492?v=4?s=100" width="100px;" alt="Jean-Philippe M"/><br /><sub><b>Jean-Philippe M</b></sub></a><br /><a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Code">💻</a> <a href="https://github.com/Jean-Philippe M/eui-table/commits?author=maquejp" title="Documentation">📖</a> <a href="#example-maquejp" title="Examples">💡</a> <a href="#ideas-maquejp" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-maquejp" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-maquejp" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>

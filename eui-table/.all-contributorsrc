@@ -1,6 +1,6 @@
 {
   "projectName": "eui-table",
-  "projectOwner": "Jean-Philippe Maquestiaux",
+  "projectOwner": "Jean-Philippe M",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -16,7 +16,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7753492?v=4",
       "profile": "https://github.com/maquejp",
       "contributions": [
-        "code"
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "maintenance"
       ]
     }
   ],
