@@ -7,7 +7,13 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:eui-table-demo": "node dist/eui-table-demo/server/server.mjs"
+    "serve:ssr:eui-table-demo": "node dist/eui-table-demo/server/server.mjs",
+    "format:check-lib": "prettier --check \"projects/eui-table/src/**/*.{ts,js,html,scss,json}\"",
+    "format:write-lib": "prettier --write \"projects/eui-table/src/**/*.{ts,js,html,scss,json}\"",
+    "format:check-demo": "prettier --check \"projects/eui-table-demo/src/**/*.{ts,js,html,scss,json}\"",
+    "format:write-demo": "prettier --write \"projects/eui-table-demo/src/**/*.{ts,js,html,scss,json}\"",
+    "format:check": "npm run format:check-lib && npm run format:check-demo",
+    "format:write": "npm run format:write-lib && npm run format:write-demo"
   },
   "private": true,
   "dependencies": {
@@ -40,6 +46,7 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "ng-packagr": "^17.3.0",
+    "prettier": "^3.2.5",
     "typescript": "~5.4.2"
   }
 }

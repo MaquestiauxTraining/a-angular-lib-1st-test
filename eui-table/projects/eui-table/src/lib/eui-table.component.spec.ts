@@ -8,10 +8,9 @@ describe('EuiTableComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [EuiTableComponent]
-    })
-    .compileComponents();
-    
+      imports: [EuiTableComponent],
+    }).compileComponents();
+
     fixture = TestBed.createComponent(EuiTableComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
