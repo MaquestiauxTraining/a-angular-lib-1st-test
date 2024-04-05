@@ -24,7 +24,9 @@
     "contributors:add": "./node_modules/.bin/all-contributors add",
     "contributors:generate": "./node_modules/.bin/all-contributors generate",
     "lint": "ng lint",
-    "husky:prepare": "husky"
+    "husky:prepare": "husky",
+    "pretty-quick": "pretty-quick --staged",
+    "commitlint": "commitlint --edit"
   },
   "private": true,
   "dependencies": {
@@ -52,6 +54,8 @@
     "@angular-eslint/template-parser": "17.3.0",
     "@angular/cli": "^17.3.3",
     "@angular/compiler-cli": "^17.3.0",
+    "@commitlint/cli": "^19.2.1",
+    "@commitlint/config-angular": "^19.1.0",
     "@types/express": "^4.17.17",
     "@types/jasmine": "~5.1.0",
     "@types/node": "^18.18.0",
@@ -68,6 +72,7 @@
     "karma-jasmine-html-reporter": "~2.1.0",
     "ng-packagr": "^17.3.0",
     "prettier": "^3.2.5",
+    "pretty-quick": "^4.0.0",
     "typescript": "~5.4.2"
   }
 }
