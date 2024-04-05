@@ -13,10 +13,10 @@ ng g lib eui-table
 ## Installation
 
 ```bash
-npm i -D prettier pretty-quick
 npm i -D eslint
 npm i -D all-contributors-cli
 npm i -D husky
+npm i -D prettier pretty-quick
 npm i -D @commitlint/cli @commitlint/config-angular
 ```
 
