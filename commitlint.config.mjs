@@ -1,3 +1,3 @@
 export default {
-  extends: ["@commitlint/config-conventional", "@commitlint/config-angular"],
+  extends: ["@commitlint/config-conventional"],
 };
