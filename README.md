@@ -10,12 +10,16 @@ ng new eui-table --create-application=false
 ng g lib eui-table
 ```
 
-```bash
 
-```
 
 ## Installation
 
+```bash
+npm i -D prettier
+npm i -D eslint
+npm i -D all-contributors-cli
+npm i -D husky
+```
 
 ## Inspiration
 
