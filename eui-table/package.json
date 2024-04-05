@@ -23,7 +23,8 @@
     "generate:toc": "npx doctoc README.md",
     "contributors:add": "./node_modules/.bin/all-contributors add",
     "contributors:generate": "./node_modules/.bin/all-contributors generate",
-    "lint": "ng lint"
+    "lint": "ng lint",
+    "prepare": "husky"
   },
   "private": true,
   "dependencies": {
@@ -58,6 +59,7 @@
     "@typescript-eslint/parser": "^7.5.0",
     "all-contributors-cli": "^6.26.1",
     "eslint": "^8.57.0",
+    "husky": "^9.0.11",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
