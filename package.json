@@ -24,7 +24,7 @@
     "contributors:add": "./node_modules/.bin/all-contributors add",
     "contributors:generate": "./node_modules/.bin/all-contributors generate",
     "lint": "ng lint",
-    "prepare": "husky"
+    "husky:prepare": "husky"
   },
   "private": true,
   "dependencies": {
