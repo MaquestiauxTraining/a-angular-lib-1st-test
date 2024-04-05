@@ -20,3 +20,11 @@ jobs:
         run: npm run lint
       - name: Test
         run: npm run test
+      - name: Coverage
+        run: npm run test:lib-coverage
+      - name: Publish to coveralls
+        uses: coverallsapp/github-action@v2.2.3
+        with:
+          github-token: ${{ secrets.GH_SC }}
+      - name: Build
+        run: npm run build
