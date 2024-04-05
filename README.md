@@ -1,6 +1,9 @@
 # EuiTable
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a demo project for creating an angular library
@@ -14,6 +17,8 @@ This is a demo project for creating an angular library
   - [Contributors ✨](#contributors-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+[![Coverage Status](https://coveralls.io/repos/github/MaquestiauxTraining/a-angular-lib-1st-test/badge.svg?branch=tempo)](https://coveralls.io/github/MaquestiauxTraining/a-angular-lib-1st-test?branch=tempo)
 
 ## Installation
 
