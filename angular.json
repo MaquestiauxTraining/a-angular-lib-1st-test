@@ -30,7 +30,8 @@
             "tsConfig": "projects/eui-table/tsconfig.spec.json",
             "browsers": "ChromeHeadless",
             "watch": false,
-            "polyfills": ["zone.js", "zone.js/testing"]
+            "polyfills": ["zone.js", "zone.js/testing"],
+            "karmaConfig": "projects/eui-table/karma.conf.js"
           }
         }
       }

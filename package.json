@@ -31,7 +31,8 @@
     "lint": "ng lint eui-table",
     "husky:prepare": "husky",
     "pretty-quick": "pretty-quick --staged",
-    "commitlint": "commitlint --edit"
+    "commitlint": "commitlint --edit",
+    "istanbul-reports": "cd coverage/eui-table && istanbul-reports convert lcov-report"
   },
   "private": true,
   "dependencies": {
