@@ -17,7 +17,7 @@ npm i -D eslint
 npm i -D all-contributors-cli
 npm i -D husky
 npm i -D prettier pretty-quick
-npm i -D @commitlint/cli @commitlint/config-angular
+npm i -D @commitlint/cli @commitlint/config-conventional @commitlint/config-angular
 ```
 
 ## Inspiration
