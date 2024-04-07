@@ -11,10 +11,9 @@ This is a demo project for creating an angular library
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [EuiTable](#euitable)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributors ✨](#contributors-)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors ✨](#contributors-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

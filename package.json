@@ -32,7 +32,8 @@
     "husky:prepare": "husky",
     "pretty-quick": "pretty-quick --staged",
     "commitlint": "commitlint --edit",
-    "istanbul-reports": "cd coverage/eui-table && istanbul-reports convert lcov-report"
+    "istanbul-reports": "cd coverage/eui-table && istanbul-reports convert lcov-report",
+    "bump-version": "rjp package.json version $VERSION && rjp projects/eui-table/package.json version $VERSION"
   },
   "private": true,
   "dependencies": {
@@ -62,6 +63,13 @@
     "@angular/compiler-cli": "^17.3.0",
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^12.0.0",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^10.0.3",
+    "@semantic-release/npm": "^12.0.0",
+    "@semantic-release/release-notes-generator": "^13.0.0",
     "@types/express": "^4.17.17",
     "@types/jasmine": "~5.1.0",
     "@types/node": "^18.18.0",
@@ -79,6 +87,7 @@
     "ng-packagr": "^17.3.0",
     "prettier": "^3.2.5",
     "pretty-quick": "^4.0.0",
+    "replace-json-property": "^1.9.0",
     "typescript": "~5.4.2"
   }
 }
