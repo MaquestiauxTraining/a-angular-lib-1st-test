@@ -1,4 +1,7 @@
 {
+    "branches": [
+        "main"
+    ],
     "pkgRoot": "dist/eui-table",
     "plugins": [
         "@semantic-release/commit-analyzer",
